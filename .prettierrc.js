@@ -10,5 +10,4 @@ module.exports = {
   bracketSpacing: true, // https://github.com/airbnb/javascript#19.12
   jsxBracketSameLine: false, // https://github.com/airbnb/javascript/tree/master/react#alignment
   arrowParens: 'always', // https://github.com/airbnb/javascript#8.4
-  'html.format.wrapAttributes': 'force-aligned',
 };
